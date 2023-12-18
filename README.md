@@ -1,0 +1,3 @@
+- [ ] Decent project website
+- [ ] Blog
+- [ ] Photos
